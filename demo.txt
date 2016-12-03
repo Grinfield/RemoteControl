@@ -2,3 +2,5 @@
 Guide:
 This demo built is used to learn how to use Android Drawable class,
 including ShapeDrawble, GradientDrawable, 9PatchDrawable, state list drawble, layer list drawable, etc.
+
+first branch: new master
